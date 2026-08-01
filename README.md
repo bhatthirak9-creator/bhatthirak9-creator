@@ -93,8 +93,6 @@ Company: Founder @ EventWebs
 
 ### 🐍 Contribution Snake
 
-> *(Make sure GitHub Actions is enabled and running in your repository to update this!)*
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/bhatthirak9-creator/bhatthirak9-creator/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
