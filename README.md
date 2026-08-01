@@ -62,13 +62,14 @@ Company: Founder @ EventWebs
 
 ---
 
+<!-- Hiding GitHub Analytics temporarily due to server downtime
 ### 📊 GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhatthirak9-creator&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhatthirak9-creator&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
 </p>
-
+-->
 ---
 
 ### 🔥 GitHub Streak & Activity
