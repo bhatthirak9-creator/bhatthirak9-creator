@@ -1,8 +1,3 @@
-Ekdum jordaar bhai! Te je details aapi chhe e kharekhar powerful chhe. Ene normal text ni jagya ae, aapne animated text, exact tech logos (shields.io), aur modern dark aesthetic no use kari ne ek **'next-level'** VIP profile banaviye.
-
-Aa code copy kari ne tara `README.md` ma paste kar. Aa tara EventWebs aur AI skills ne ekdum perfectly highlight karshe:
-
-```markdown
 <!-- 🌟 GITHUB PROFILE HEADER 🌟 -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Bhatt+Hirak!+👋;Founder+of+EventWebs;AI+%26+Full-Stack+Developer;B.Tech+CS+Student" alt="Typing SVG" />
@@ -81,5 +76,3 @@ A modern platform for creating beautiful digital experiences for every special o
   <a href="https://linkedin.com/in/bhatthirak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://eventwebs.surge.sh/"><img src="https://img.shields.io/badge/EventWebs-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </div>
-
-```
