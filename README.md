@@ -65,8 +65,8 @@ Company: Founder @ EventWebs
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhatthirak9-creator&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhatthirak9-creator&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhatthirak9-creator&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhatthirak9-creator&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
 </p>
 
 ---
@@ -74,7 +74,7 @@ Company: Founder @ EventWebs
 ### 🔥 GitHub Streak & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhatthirak9-creator&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhatthirak9-creator&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ Company: Founder @ EventWebs
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhatthirak9-creator&theme=tokyonight&no-frame=true&column=6&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhatthirak9-creator&theme=tokyonight&no-frame=true&column=6&margin-w=15&v=1" alt="Trophies" />
 </p>
 
 ---
