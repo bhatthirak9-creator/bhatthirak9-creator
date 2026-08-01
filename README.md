@@ -83,13 +83,12 @@ Company: Founder @ EventWebs
 
 ---
 
+
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhatthirak9-creator&theme=tokyonight&no-frame=true&column=6&margin-w=15&v=1" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhatthirak9-creator&theme=tokyonight&no-frame=true&column=6&margin-w=15" alt="Trophies" />
 </p>
-
----
 
 ### 🐍 Contribution Snake
 
