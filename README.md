@@ -1,4 +1,3 @@
-```markdown
 # 🌊 GitHub Profile
 
 <p align="center">
@@ -19,14 +18,13 @@
 
 ### 👨‍💻 About Me
 
-```yaml
+<pre>
 Name: Bhatt Hirak
 Location: Ahmedabad, Gujarat 🇮🇳
 Education: B.Tech Computer Science
 Role: AI & Full Stack Developer
 Company: Founder @ EventWebs
-
-```
+</pre>
 
 * 🚀 Building Modern, Fast, & Scalable Web Applications
 * 🤖 Crafting Intelligent AI-Powered Solutions
@@ -38,22 +36,24 @@ Company: Founder @ EventWebs
 
 ### 🚀 Current Spotlight
 
-**⭐ EventWebs**
-
-*Create Surprise. Make Moments Unforgettable.*
-
+**⭐ EventWebs**  
+*Create Surprise. Make Moments Unforgettable.*  
 🌐 [https://eventwebs.surge.sh/](https://eventwebs.surge.sh/)
 
 ---
 
 ### 🛠 Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,django,mysql,mongodb,sqlite,docker,git,github,linux,vscode,figma,postman&perline=10" alt="Tech Stack Icons" />
+</p>
+
 ---
 
 ### 📌 Featured Projects
 
 | Project | Description | Role/Tech |
-| --- | --- | --- |
+|---------|-------------|-----------|
 | **⭐ EventWebs** | Premium Event Website Platform | Founder / Full-Stack |
 | **🤖 NOVA OS** | AI Operating System | AI Engineer |
 | **🏠 SmartRent AI** | AI Property Platform | Lead Developer |
@@ -64,13 +64,30 @@ Company: Founder @ EventWebs
 
 ### 📊 GitHub Analytics
 
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhatthirak9-creator&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhatthirak9-creator&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+</p>
+
 ---
 
 ### 🔥 GitHub Streak & Activity
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhatthirak9-creator&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhatthirak9-creator&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
 ---
 
 ### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhatthirak9-creator&theme=tokyonight&no-frame=true&column=6&margin-w=15" alt="Trophies" />
+</p>
 
 ---
 
@@ -78,9 +95,22 @@ Company: Founder @ EventWebs
 
 > *(Make sure GitHub Actions is enabled and running in your repository to update this!)*
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhatthirak9-creator/bhatthirak9-creator/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
+
 ---
 
 ### 🌎 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/bhatthirak">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://eventwebs.surge.sh/">
+    <img src="https://img.shields.io/badge/EventWebs-Live-success?style=for-the-badge&logo=google-chrome&logoColor=white" alt="EventWebs" />
+  </a>
+</p>
 
 ---
 
@@ -89,3 +119,7 @@ Company: Founder @ EventWebs
 > **"Code. Build. Learn. Repeat."**
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0f2027,50:203a43,100:2c5364" alt="Footer Banner" />
+</p>
